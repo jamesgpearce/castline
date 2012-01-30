@@ -1,4 +1,6 @@
-== Posting your podcast habits to the Open Graph ==
+# CastLine
+
+## Posting your podcast habits to the Open Graph
 
 Uses AppleScript to detect what podcast you are listening to.
 
@@ -10,9 +12,9 @@ Posts the listening action to the open graph, so you can log your listening habi
 
 With this, I see my listening turning up in Timeline thus:
 
-http://cl.ly/Djul
+![](http://cl.ly/Djul)
 
-=== This code won't work ===
+### This code won't work
 
 Firstly because I removed the app_id and app_secret required, but also because the castline actions are not approved and so only named developers and testers can submit actions to appear in their ticker and timeline.
 
