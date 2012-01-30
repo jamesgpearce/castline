@@ -12,7 +12,7 @@ Posts the listening action to the open graph, so you can log your listening habi
 
 With this, I see my listening turning up in Timeline thus:
 
-![](http://cl.ly/Djul)
+![](http://cl.ly/Djul/2Dl4.png)
 
 ### This code won't work
 
